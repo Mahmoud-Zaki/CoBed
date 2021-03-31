@@ -1,0 +1,54 @@
+name: cobed
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  provider: ^4.3.2+3
+  shared_preferences: ^0.5.12+4
+  percent_indicator: ^2.1.9
+  http: ^0.12.2
+  charts_flutter: ^0.9.0
+  cached_network_image: ^2.5.0
+  image_picker: ^0.6.7+17
+  geocoder: ^0.2.1
+  geolocator: ^6.1.14
+  google_maps_flutter: ^0.5.28+1
+  flutter_spinkit: ^4.1.2
+  url_launcher: ^5.7.10
+  googleapis: ^1.0.0
+  googleapis_auth: ^0.2.12+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - Assets/co-bed-logo.png
+    - Assets/user.png
+    - Assets/organization.png
+    - Assets/test.png
+    - Assets/mask.png
+    - Assets/edit.png
+    - Assets/graph.png
+    - Assets/welcome.png
+    - Assets/ilu-1.png
+    - Assets/ilu-2.png
+    - Assets/ilu-3.png
+    - Assets/ilu-4.png
+    - Assets/ilu-5.png
+    - Assets/arrow-down.png
+    - Assets/arrow-up.png
