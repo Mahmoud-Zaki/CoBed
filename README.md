@@ -22,7 +22,7 @@ __CoBed is a cross-platform mobile application “Android - IOS”  aims to help
 ## 📷 Screenshots
 | . | . |
 | --- | --- |
-![splash_screen](/screenshots/splash_screen.png) | ![login](/screenshots/login.png)
+![Co-Bed](/1618299840707.jpg) | ![poster](/1618300070201.jpg)
 ![signup](/screenshots/signup.png) | ![inbox](/screenshots/inbox.png)
 ![story](/screenshots/story.png) | ![explore](/screenshots/explore.png)
 ![calling](/screenshots/calling.png) | ![setting](/screenshots/setting.png)
