@@ -1,16 +1,28 @@
-# cobed
+# COBED
 
-A new Flutter application.
+__CoBed is a cross-platform mobile application “Android - IOS”  aims to help users find the nearest space for coronavirus treatment and organizations to keep users updated with the latest news and methods of treatment and the latest updates about available beds and devices via simple user interface for any age category.__
 
-## Getting Started
+## 🚀 Technologies
+* Flutter Framework & Dart Language
+* APIs
+* Cached Network Image Plugin
+* Shared Preferences Plugin
 
-This project is a starting point for a Flutter application.
+## ⭐ Features
+* Sign up system for organization and user.
+* Login system.
+* Helping users find the nearest hospital with empty beds.
+* keep users updated with the latest news and methods of treatment and the latest updates about available beds and devices.
+* Giving initial advice about your health, whether you are infected or not, through a simple test.
+* Providing user with a quick reports about number of infected, dead and recovery cases a day.
 
-A few resources to get you started if this is your first Flutter project:
+## 🔗 Play Store Link
+[CoBed](https://drive.google.com/drive/u/1/folders/1z_bc4nlPh9aKQxN3LudtrYnxcHPjgxBe)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Screenshots
+| . | . |
+| --- | --- |
+![splash_screen](/screenshots/splash_screen.png) | ![login](/screenshots/login.png)
+![signup](/screenshots/signup.png) | ![inbox](/screenshots/inbox.png)
+![story](/screenshots/story.png) | ![explore](/screenshots/explore.png)
+![calling](/screenshots/calling.png) | ![setting](/screenshots/setting.png)
