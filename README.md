@@ -26,4 +26,4 @@ __CoBed is a cross-platform mobile application “Android - IOS”  aims to help
 ![3](/screenshots/Rectangle3.png) | ![4](/screenshots/Rectangle4.png)
 ![5](/screenshots/Rectangle5.png) | ![6](/screenshots/Rectangle6.png)
 ![7](/screenshots/Rectangle7.png) | ![8](/screenshots/Rectangle8.png)
-![9](/screenshots/Rectangle1.png) | ![10](/screenshots/Rectangle1.png)
+![9](/screenshots/Rectangle9.png) | ![Co-Bed](/screenshots/1618299840707.jpg)
