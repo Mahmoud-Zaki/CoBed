@@ -4,7 +4,7 @@ class Constants {
   static const String coronaApiURL =
       'https://disease.sh/v2/countries?yesterday=false&sort=cases';
 
-  static const String baseURL = 'https://cobeds.herokuapp.com/';
+  static const String baseURL = '//API';
 
   static const List<String> citiesOfEgypt = [
     'Cairo','Giza','Qalyubia','Helwan','6th of October','Beheira','Marsa Matruh',
