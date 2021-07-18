@@ -16,7 +16,7 @@ __CoBed is a cross-platform mobile application “Android - IOS”  aims to help
 * Giving initial advice about your health, whether you are infected or not, through a simple test.
 * Providing user with a quick reports about number of infected, dead and recovery cases a day.
 
-## 🔗 Play Store Link
+## 🔗 APK Link
 [CoBed](https://drive.google.com/drive/u/1/folders/1z_bc4nlPh9aKQxN3LudtrYnxcHPjgxBe)
 
 ## 📷 Screenshots
